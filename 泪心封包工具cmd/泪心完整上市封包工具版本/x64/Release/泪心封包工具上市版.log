@@ -1,0 +1,46 @@
+﻿D:\deelopcompile\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(泪心封包工具cmd.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  The contents of <optional> are available only with C++17 or later.
+  tear.cpp
+  The contents of <optional> are available only with C++17 or later.
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(187,51): warning C4018: “>=”: 有符号/无符号不匹配
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(204,73): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(281,51): warning C4018: “>=”: 有符号/无符号不匹配
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(331,51): warning C4018: “>=”: 有符号/无符号不匹配
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(335,22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(335,22): message : 请考虑在格式字符串中使用“%lld”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(335,22): message : 请考虑在格式字符串中使用“%Id”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(335,22): message : 请考虑在格式字符串中使用“%I64d”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(335,22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(335,22): message : 请考虑在格式字符串中使用“%zd”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(377,57): warning C4018: “>=”: 有符号/无符号不匹配
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(381,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(381,28): message : 请考虑在格式字符串中使用“%lld”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(381,28): message : 请考虑在格式字符串中使用“%Id”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(381,28): message : 请考虑在格式字符串中使用“%I64d”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(381,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(381,28): message : 请考虑在格式字符串中使用“%zd”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(389,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(389,28): message : 请考虑在格式字符串中使用“%lld”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(389,28): message : 请考虑在格式字符串中使用“%Id”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(389,28): message : 请考虑在格式字符串中使用“%I64d”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(416,57): warning C4018: “>=”: 有符号/无符号不匹配
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(420,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(420,28): message : 请考虑在格式字符串中使用“%lld”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(420,28): message : 请考虑在格式字符串中使用“%Id”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(420,28): message : 请考虑在格式字符串中使用“%I64d”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(420,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(420,28): message : 请考虑在格式字符串中使用“%zd”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(428,28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(428,28): message : 请考虑在格式字符串中使用“%lld”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(428,28): message : 请考虑在格式字符串中使用“%Id”
+D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\泪心完整上市封包工具版本\tear.cpp(428,28): message : 请考虑在格式字符串中使用“%I64d”
+  正在生成代码
+  2 of 915 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+X64tear.lib(detours.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“X64tear.lib(detours.obj)”或在“D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\x64\Release\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+X64tear.lib(modules.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“X64tear.lib(modules.obj)”或在“D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\x64\Release\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+X64tear.lib(disasm.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“X64tear.lib(disasm.obj)”或在“D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\x64\Release\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  泪心封包工具上市版.vcxproj -> D:\deelopcompile\VS2019\泪心开源github完整C++封包TCP源码\泪心封包工具cmd\x64\Release\tearwin.dll
