@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<DEFAULT ct="2a55f9235523a08720bf617f0d30fbe6" probability="0" flag="0">
+		<file name="mrpcs-android-1.gr_925.data" probability="100">
+			<A hash="BA041674"/>
+		</file>
+		<file name="mrpcs-android-l.gr_925.data" probability="100">
+			<A hash="20071F58"/>
+		</file>
+		<file name="mrpcs.data" probability="100">
+			<A hash="F3C1B5ED"/>
+		</file>
+	</DEFAULT>
+	<GAME hash_type="1" hash="00000000">
+	</GAME>
+	<GAME hash_type="1" hash="00000000">
+	</GAME>
+</config>
